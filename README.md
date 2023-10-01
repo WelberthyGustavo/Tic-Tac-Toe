@@ -2,6 +2,8 @@
 
 - A simple implementation of the classic Tic-Tac-Toe game as a webpage. This project allows users to play Tic-Tac-Toe in a web browser.
 
+![Screenshot 1](/ScreenshotTicTacToe.png)
+
 ## Features
 
 - Interactive gameplay for two players.
